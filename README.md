@@ -10,7 +10,7 @@ Perform the average of the values.
 Find the difference between both values.  
 Find the quotient when one value is divided by the other.
 Determine and print out whether any of the numbers are even or add.
-# Have comments applied appropriately.
+Have comments applied appropriately.
 
 ## SQL PROGRAMMING
 
@@ -41,5 +41,13 @@ S_Area_Ha: total sorghum crop area for the subcounty (Ha)
 M_Area_Ha: total maize crop area for the subcounty (Ha)
 S_Prod_Tot: total productivity for the sorghum for the subcounty (Kg)
 M_Prod_Tot: total productivity for the maize for the subcounty (Kg)
+
+## Career Planning
+Overview
+
+In this part of the assessment, you will be required to write a career development plan for your data science career. This will involve recording, reflecting, tracking, planning and reviewing the steps that you will take for the next five years of your data science career. Your career plan can take into account of any career path that you would want to undertake i.e. employment, entrepreneurship, consulting, etc.
+
+You will be required to provide a write up (Google Docs Document) outlining your Data Science career plan. You can use the learnings from this week’s sessions.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
