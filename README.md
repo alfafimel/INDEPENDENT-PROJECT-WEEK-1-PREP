@@ -9,4 +9,6 @@ Perform the average of the values.
 Find the difference between both values.  
 Find the quotient when one value is divided by the other.
 Determine and print out whether any of the numbers are even or add.
-# Have comments applied appropriately.
+## Have comments applied appropriately.
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
