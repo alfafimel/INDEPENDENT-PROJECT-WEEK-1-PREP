@@ -1,4 +1,4 @@
-# INDEPENDENT-PROJECT-WEEK-1-PREP
+# Introduction to Python and SQL for Data Science & Career planning
 ## PYTHON
 During this week, you also started learning how as a Data Scientist, you will be required to write programs that perform python computations.
 
